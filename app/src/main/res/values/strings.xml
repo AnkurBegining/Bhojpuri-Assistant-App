@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dear Bhojpuri</string>
+    <string name="category_number">Number</string>
+    <string name="category_Family">Family</string>
+    <string name="category_Colors">Color</string>
+    <string name="category_Phrases">Phrases</string>
+</resources>
